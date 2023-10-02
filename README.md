@@ -1,7 +1,11 @@
 # Help-Desk Ticketing System Prototype
-[Author: Jireh Aviu]
-[ID: 20230851]
-[Assignment 2 & 3: Software Development]
+**Author**: Jireh Tearea  
+**ID**: 20230851  
+**Educational Institution**: Whitecliffe  
+**Subject**: IT5016 Software Development  
+**Assignment 2**: Software Project  
+**Assignment 3**: Research Repository  
+
 
 ## Table of Contents
 * [Introduction](#introduction)
