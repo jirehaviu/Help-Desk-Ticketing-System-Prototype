@@ -28,4 +28,9 @@ This software prototype is my submission for IT5016 Software Development, Assign
 -**Logout**, After the user has finished their task using this software, they can choose to log out from the software.  
 
 **IT Department Option Screen**  
--**View Tickets**, admins can retrieve 
+-**View Tickets**, Admins have the ability to gather the required information on all tickets for analysis and tracking purposes.  
+-**Resolve Ticket**,
+-**Change Admin Password**,
+-**Ticket Statistics**,
+-**Reopen Ticket**,
+-**Logout**, 
