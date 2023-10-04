@@ -29,8 +29,8 @@ This software prototype is my submission for IT5016 Software Development, Assign
 
 **IT Department Option Screen**  
 -**View Tickets**, Admins have the ability to gather the required information on all tickets for analysis and tracking purposes.  
--**Resolve Ticket**,
--**Change Admin Password**,
+-**Resolve Ticket**, This option allows administrators to respond to a submitted ticket and resolve the issue that coincides with the ticket. If a support staff requests a password, the admin can initiate an automatic generated password.  
+-**Change Admin Password**, Administrators have the ability to change/alter their or another admins password.
 -**Ticket Statistics**,
 -**Reopen Ticket**,
 -**Logout**, 
