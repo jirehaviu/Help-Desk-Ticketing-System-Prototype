@@ -31,6 +31,6 @@ This software prototype is my submission for IT5016 Software Development, Assign
 -**View Tickets**, Admins have the ability to gather the required information on all tickets for analysis and tracking purposes.  
 -**Resolve Ticket**, This option allows administrators to respond to a submitted ticket and resolve the issue that coincides with the ticket. If a support staff requests a password, the admin can initiate an automatic generated password.  
 -**Change Admin Password**, Administrators have the ability to change/alter their or another admins password.
--**Ticket Statistics**,
--**Reopen Ticket**,
--**Logout**, 
+-**Ticket Statistics**, This option retreives statistices based on ticket total, opened tickets, closed tickets.  
+-**Reopen Ticket**, When a certain ticket is completed (*closed), Administrators have the access to reopen a particular ticket.  
+-**Logout**, After the adminisrator has finished their task using this software, they can choose to log out from the software. 
